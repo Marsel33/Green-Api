@@ -17,7 +17,7 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone git@github.com:Marsel33/Green-Api.git
+   git clone https://github.com/Marsel33/Green-Api.git
    ```
 
 2. Перейдите в папку клиента:
